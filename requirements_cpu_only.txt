@@ -20,7 +20,6 @@ transformers==4.34.*
 tqdm
 wandb
 
-git+https://github.com/oobabooga/torch-grammar.git
 
 # bitsandbytes
 bitsandbytes==0.41.1; platform_system != "Windows"
